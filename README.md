@@ -1,2 +1,3 @@
 # spectehcrm_loader
-Document loader for spectehcrm.com
+Batch loader for spectehcrm.com
+Неофициальное дополнение для spectehcrm.com, позволяющее массово импортировать/экспортировать данные.
